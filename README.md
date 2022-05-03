@@ -32,3 +32,7 @@ python app.py                   # Run the program
 ```
 
 Once running, the program will prompt the user for the source and receiver, then it will map out the shortest path and display it to the user.
+
+
+## How to run the program
+Report is in file "coe865.pdf"
