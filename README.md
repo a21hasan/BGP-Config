@@ -35,4 +35,4 @@ Once running, the program will prompt the user for the source and receiver, then
 
 
 ## How to run the program
-Report is in file "coe865.pdf"
+Report is in file "865github.pdf"
