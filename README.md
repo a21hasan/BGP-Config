@@ -1,8 +1,4 @@
 
-
-# 865github.pdf -- Theory
-
-
 # COE 865 - Final Project
 
 ## About
@@ -40,4 +36,4 @@ Once running, the program will prompt the user for the source and receiver, then
 
 
 ## How to run the program
-Report is in file "865github.pdf"
+
